@@ -1,17 +1,3 @@
----
-title: 'Deep Learning Project: malignant vs non-malignant'
-author: "By Georgina Anna Wager"
-date: "19/01/2021"
-output:
-  html_document: default
-  pdf_document: default
-  word_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 #### Deep learning classification of malignant vs non-malignant melanoma from photographs of the lesion.
 
 This project is part of the assessment for the module C7082 Techniques in Machine Learning and AI, that is ran at Harper Adams University College by Ed Harris for the MSc Course: Data Science for Global Agriculture, Food and Environment. 
