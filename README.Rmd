@@ -1,8 +1,11 @@
 ---
-title: "Deep Learning Project: malignant vs non-malignant"
+title: 'Deep Learning Project: malignant vs non-malignant'
 author: "By Georgina Anna Wager"
 date: "19/01/2021"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
