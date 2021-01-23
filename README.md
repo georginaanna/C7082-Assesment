@@ -12,6 +12,7 @@ Contents:
 2. Model 2: CNN with augumentation, Image size 200 x 200 and epoch at 75 (url: https://www.kaggle.com/georginawager/cnn-model-2)
 3. A final report in pdf format that has the final model, image size 120 x 120 and epoch at 75 also including an introduction, method, results, discussion and references (url https://www.kaggle.com/georginawager/final-report)
 4. Graph of the accuracy of the final model that is spoken about in the report
+5. Video on inputting the data into the kernal, youtube link is also here: https://www.youtube.com/watch?v=RU2pIzSftsg&t=16s
 
 Data: 
 
